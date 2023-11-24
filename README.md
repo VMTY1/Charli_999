@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://telegra.ph/file/f5aa76e774ea0d510bb69.jpg" alt="@Wanda_Ki_Shakti_Bot Logo">
+  <img src="https://telegra.ph/file/f5aa76e774ea0d510bb69.jpg" alt="@Itachi_x_robot_bot Logo">
 </p>
 <h1 align="center">
-  @Wanda_Ki_Shakti_Bot
+  @Itachi_x_robot_bot
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wᴇʟᴄᴏᴍᴇ+Tᴏ+Wᴀɴᴅᴀ+ᴋɪ+Sʜᴀᴋᴛɪ+Bᴏᴛ;A+Sɪᴍᴘʟᴇ+Aɴᴅ+Vᴇʀʏ+PᴏᴡᴇʀFᴜʟʟ+Bᴏᴛ!;A+Bᴏᴛ+Wɪᴛʜ+Tᴇxᴛ+Fɪʟᴛᴇʀ+Mᴏᴅᴇ;Iɴᴅᴇxᴇs+Fɪʟᴇs+Aʙᴏᴠᴇ+4Gʙ;Sᴛᴀʀᴛ+Mᴇssᴀɢᴇ+Wɪᴛʜ+Pɪᴄ!;Aɴᴅ+Mᴀɴʏ+Mᴏʀᴇ+Fᴇᴀᴛᴜʀᴇs!)
