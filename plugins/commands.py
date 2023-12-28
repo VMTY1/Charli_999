@@ -25,8 +25,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs', url=CHNL_LNK),
-                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url=GRP_LNK)
+                    InlineKeyboardButton('ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs', url='https://t.me/M_MOVIES_23'),
+                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/M_MOVIES_23')
                 ],[
                     InlineKeyboardButton('🔻 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ 🔻', url=CHNL_LNK)
                   ]]
@@ -45,8 +45,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs', url=CHNL_LNK),
-                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url=GRP_LNK)
+                    InlineKeyboardButton('ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs', url='https://t.me/M_MOVIES_23'),
+                    InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/M_MOVIES_23')
                 ],[
                     InlineKeyboardButton('👻 ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('👾 ᴀʙᴏᴜᴛ', callback_data='about')
